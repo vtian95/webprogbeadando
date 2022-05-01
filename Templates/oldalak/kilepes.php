@@ -1,4 +1,0 @@
-<?php
-
-logout();
-redirect('belepes');
